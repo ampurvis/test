@@ -1,2 +1,2 @@
 Hello world!
-// The standard starting file.
+// The standard starting file. Pretty boring.
